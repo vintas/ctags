@@ -841,7 +841,7 @@ AC_OUTPUT
 
 AC_MSG_RESULT([
 ##########################################################################
-Now you can run make or gmake, when you run as make, besure it is GNU make.
+Now you can run make or gmake, when you run as make, be sure it is GNU make.
 ##########################################################################
 ])
 
